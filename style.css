@@ -1,0 +1,59 @@
+body {
+  background: lightgrey;
+  padding: 30px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-image: url(images/train2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* border: 8px solid rgb(131, 17, 17); */
+}
+
+.container {
+  border-bottom: 10px;
+  
+}
+
+.lead {
+  color: black;
+  background: white;
+  opacity: 0.7;
+  height: 60%;
+  width: 60%;
+  margin: auto;
+}
+
+.top {
+  color: black;
+  background: white;
+  opacity: 0.7;
+  font-family: 'Ultra', serif;
+  margin: auto;
+  height: 60%;
+  width: 60%;
+
+}
+
+#employee-form {
+  border: 3px solid rgb(131, 17, 17);
+}
+
+.addTrain {
+  background: grey;
+  text-align: center;
+  color: black;
+}
+
+.btn {
+background: black;
+border: black;
+
+}
+
+#floatTable {
+  float: right;
+}
