@@ -80,6 +80,13 @@ $(document).ready(function() {
 
     })
 
+    $("#clearButton").on("click", function(event){
+      event.preventDefault();
+      
+      $("td").empty();
+      
+      })
+
   
 
 })

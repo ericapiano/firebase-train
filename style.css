@@ -51,9 +51,25 @@ body {
 .btn {
 background: black;
 border: black;
+border-right: 30%;
 
 }
 
 #floatTable {
   float: right;
 }
+
+#enterButton {
+  margin-left: 20%;
+}
+
+   
+#enterButton:hover {
+  background: grey;
+  color: blue;
+  }
+
+  #clearButton:hover {
+    background: grey;
+    color: blue;
+    }  
